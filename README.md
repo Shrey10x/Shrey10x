@@ -1,4 +1,4 @@
-# Hi, I'm Shrey 🤖
+# Hi, I'm Shrey 👋 🤖
 
 ### Aspiring Data Analytics | Passionate about turning data into insights
 
@@ -62,9 +62,9 @@ I'm currently completing the **Data Analytics Professional Certificate** from [D
 
 ![Dashboard Preview](https://github.com/Shrey10x/telco-customer-churn-dashboard/blob/main/dashboard_preview.png)
 
-#### Live Repository:
+<!-- #### Live Repository:
 
-[GitHub Link](#) <!-- [Replace with your actual repo URL](https://github.com/Shrey10x/telco-customer-churn-dashboard) -->
+[GitHub Link](#) (https://github.com/Shrey10x/telco-customer-churn-dashboard) -->
 
 ---
 
@@ -81,7 +81,8 @@ I'm currently completing the **Data Analytics Professional Certificate** from [D
 If you're into clean code, beautiful dashboards, or clever AI workflows, let's collaborate.
 
 
-* 👤 LinkedIn: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/shreyfeb/)](#)
+* 👤 LinkedIn: 
+ [Shrey Shah](https://www.linkedin.com/in/shreyfeb/)
 
 ---
 
