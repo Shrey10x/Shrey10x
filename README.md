@@ -60,7 +60,7 @@ I'm currently completing the **Data Analytics Professional Certificate** from [D
 
 #### Preview:
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](https://github.com/Shrey10x/telco-customer-churn-dashboard/blob/main/dashboard_preview.png)
 
 #### Live Repository:
 
