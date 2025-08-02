@@ -68,11 +68,11 @@ I'm currently completing the **Data Analytics Professional Certificate** from [D
 
 ---
 
-## 📊 Upcoming Projects
+<!-- ## 📊 Upcoming Projects
 
 * Python-based Churn Prediction (Logistic Regression + Data Viz)
 * SQL-powered Customer Segmentation
-* AI-Augmented Excel Automation Toolkit
+* AI-Augmented Excel Automation Toolkit -->
 
 ---
 
