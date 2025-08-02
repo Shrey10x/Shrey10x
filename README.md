@@ -54,7 +54,7 @@ I'm currently completing the **Data Analytics Professional Certificate** from [D
 
 #### Tools Used:
 
-* Microsoft Excel (Mac)
+* Microsoft Excel
 * PivotTables, Charts, Conditional Formatting
 * Manual + AI-assisted data exploration
 
