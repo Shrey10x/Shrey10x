@@ -28,7 +28,7 @@ I'm currently completing the **Data Analytics Professional Certificate** from [D
 ### ✅ Completed:
 
 1. [**Data Analytics Foundations**](https://coursera.org/share/7984ede34ec805e2c634d9ba2fff0165)
-2. **Applied Statistics for Data Analytics**
+2. [**Applied Statistics for Data Analytics**](https://coursera.org/share/7e448c865712c2b61775e5074dcff163)
 
 ### ⏳ In Progress:
 
