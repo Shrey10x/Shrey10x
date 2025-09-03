@@ -26,7 +26,7 @@ Now, I'm combining my software background with a growing passion for **data** an
 I'm currently completing the **Data Analytics Professional Certificate** from [DeepLearning.AI.](https://www.coursera.org/professional-certificates/data-analytics)
 
 ### ✅ Completed:
-
+[**Data Analytics - DeepLearning.AI ProfessionalCertificate**](https://coursera.org/share/2bbf9900342b2f45969fd31cef957fc6)
 1. [**Data Analytics Foundations**](https://coursera.org/share/7984ede34ec805e2c634d9ba2fff0165)
 2. [**Applied Statistics for Data Analytics**](https://coursera.org/share/7e448c865712c2b61775e5074dcff163)
 3. [**Python for Data Analytics**](https://coursera.org/share/a745daf6a8aa1ca8c3b7c1776ce225ad)
