@@ -30,11 +30,8 @@ I'm currently completing the **Data Analytics Professional Certificate** from [D
 1. [**Data Analytics Foundations**](https://coursera.org/share/7984ede34ec805e2c634d9ba2fff0165)
 2. [**Applied Statistics for Data Analytics**](https://coursera.org/share/7e448c865712c2b61775e5074dcff163)
 3. [**Python for Data Analytics**](https://coursera.org/share/a745daf6a8aa1ca8c3b7c1776ce225ad)
-
-### ⏳ In Progress:
-
-4. **Data I/O and Preprocessing with Python and SQL**
-5. **Data Storytelling**
+4. [**Data I/O and Preprocessing with Python and SQL**](https://coursera.org/share/610401098b42f91b4075af8273e5aaba)
+5. [**Data Storytelling**](https://coursera.org/share/91d687d00e623367434cbe79fe4f050e)
 
 ---
 
