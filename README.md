@@ -23,8 +23,6 @@ Now, I'm combining my software background with a growing passion for **data** an
 
 ## 🎓 Data Analytics Learning Path (DeepLearning.AI)
 
-I'm currently completing the **Data Analytics Professional Certificate** from [DeepLearning.AI.](https://www.coursera.org/professional-certificates/data-analytics)
-
 ### ✅ Completed:
 [**Data Analytics - DeepLearning.AI ProfessionalCertificate**](https://coursera.org/share/2bbf9900342b2f45969fd31cef957fc6)
 1. [**Data Analytics Foundations**](https://coursera.org/share/7984ede34ec805e2c634d9ba2fff0165)
