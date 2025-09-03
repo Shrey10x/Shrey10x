@@ -17,7 +17,7 @@ Now, I'm combining my software background with a growing passion for **data** an
 | Role                      | Skills & Tools                                                                                                  |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | **iOS Developer**         | Swift, SwiftUI, Objective-C, UIKit, HealthKit, MapKit, StoreKit, AVKit, REST APIs, JSON/XML, Core Data          |
-| **Aspiring Data Analyst** | Excel, Google Sheets, SQL, Python (in progress), Tableau, Generative AI tools (ChatGPT, Gemini, Claude, Cursor) |
+| **Aspiring Data Analyst** | Excel, Google Sheets, SQL, Python, Tableau, Generative AI tools (ChatGPT, Gemini, Claude, Cursor) |
 
 ---
 
